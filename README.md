@@ -1,4 +1,5 @@
 ![Bannière](https://raw.githubusercontent.com/tungstenee/tungstenee/refs/heads/main/banner3.png)
+![Les stats de MonPseudo](https://github-readme-stats.vercel.app/api?username=tungstenee&show_icons=true&theme=radium)
 <!--
 **tungstenee/tungstenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
