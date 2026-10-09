@@ -1,5 +1,5 @@
 ![Bannière](https://raw.githubusercontent.com/tungstenee/tungstenee/refs/heads/main/banner3.png)
-![Mes Stats](https://github-readme-stats.vercel.app/api?username=tungstenee&show_icons=true&theme=radium&v=1)
+![Mes Stats](https://streak-stats.demolab.com/?user=tungstenee&theme=radium)
 
 
 <!--
