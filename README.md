@@ -1,4 +1,4 @@
-https://i.imgur.com/LKGd8fz.png
+![Bannière](https://raw.githubusercontent.com/tungstenee/tungstenee/refs/heads/main/banner.png)
 <!--
 **tungstenee/tungstenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
