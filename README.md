@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/tungstenee/tungstenee/refs/heads/main/banner3.png" alt="Bannière" width="60%">
 </div>
 ![Mes Stats](https://streak-stats.demolab.com/?user=tungstenee&theme=radium)
