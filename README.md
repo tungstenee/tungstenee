@@ -1,8 +1,7 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/tungstenee/tungstenee/refs/heads/main/banner3.png" alt="Bannière" width="90%">
 </div>
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tungstenee)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tungstenee&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=tungstenee&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
 
 <!--
 **tungstenee/tungstenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
