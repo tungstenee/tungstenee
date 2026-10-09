@@ -3,7 +3,7 @@
 </div>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tungstenee&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=tungstenee&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=tungstenee&repo=tungstenee%2Ftungstenee&show_owner=true&description_lines_count=1&theme=dark)](https://github.com/tungstenee/tungstenee)
 
 
 <!--
