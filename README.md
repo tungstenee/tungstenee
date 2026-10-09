@@ -1,7 +1,7 @@
 <div align="left">
-  <img src="https://raw.githubusercontent.com/tungstenee/tungstenee/refs/heads/main/banner3.png" alt="Bannière" width="60%">
+  <img src="https://raw.githubusercontent.com/tungstenee/tungstenee/refs/heads/main/banner3.png" alt="Bannière" width="90%">
 </div>
-![Mes Stats](https://streak-stats.demolab.com/?user=tungstenee&theme=radium)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tungstenee)](https://github.com/stats-organization/github-stats-extended)
 
 
 <!--
